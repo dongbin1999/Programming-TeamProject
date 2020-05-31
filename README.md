@@ -1,6 +1,6 @@
 # 프로그래밍 팀프로젝트
 
-### 좀비 게임 (변경 사항/오류 제보)
+### [좀비 게임 (변경 사항/오류 제보)](https://dongbin1999.github.io/jekyll/update/Programming-TeamProject/)
 
 [Download](https://github.com/dongbin1999/Programming-TeamProject)
 
